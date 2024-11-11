@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on a javaScript project
 - 📫 How to reach me karim.melad@msn.com 
-- 😄 Pronouns: male
 - ⚡ Fun fact: now i am a maintenance engineer 
 
 <!---
